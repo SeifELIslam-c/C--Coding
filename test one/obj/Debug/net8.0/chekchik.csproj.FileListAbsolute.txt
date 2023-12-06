@@ -1,0 +1,14 @@
+C:\Users\Seif El Islam\Desktop\C#\chekchik\bin\Debug\net8.0\chekchik.exe
+C:\Users\Seif El Islam\Desktop\C#\chekchik\bin\Debug\net8.0\chekchik.deps.json
+C:\Users\Seif El Islam\Desktop\C#\chekchik\bin\Debug\net8.0\chekchik.runtimeconfig.json
+C:\Users\Seif El Islam\Desktop\C#\chekchik\bin\Debug\net8.0\chekchik.dll
+C:\Users\Seif El Islam\Desktop\C#\chekchik\bin\Debug\net8.0\chekchik.pdb
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.AssemblyInfoInputs.cache
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.AssemblyInfo.cs
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.csproj.CoreCompileInputs.cache
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.dll
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\refint\chekchik.dll
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.pdb
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\chekchik.genruntimeconfig.cache
+C:\Users\Seif El Islam\Desktop\C#\chekchik\obj\Debug\net8.0\ref\chekchik.dll
